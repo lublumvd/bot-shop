@@ -1,2 +1,2 @@
-TOKEN = "ТВОЙ_ТОКЕН_БОТА"
-CRYPTOBOT_API_KEY = "ТВОЙ_API_KEY_CRYPTOBOT"
+TOTOKEN = "7698300792:AAHpJhHl1cSv_9EjWvfigVdNhlfGP9Q8aww"
+CRYPTOBOT_API_KEY  = "t.me/send?start=IV1m2T2OSGaE"
